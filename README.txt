@@ -1,6 +1,4 @@
 
-This is Big Picture, a simple, single page responsive site template by HTML5 UP.
-
 This is my portofilo! I hope you enjoy.
 Below are instructions to help undestand formmatting of the page.
 
